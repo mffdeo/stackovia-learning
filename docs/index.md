@@ -28,17 +28,17 @@ features:
 
 | Volume | Título | Status |
 |---|---|---|
-| **Vol. 01** | [Fundamentos do Dev Moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/) | 🟡 Em produção — 3 capítulos publicados |
-| Vol. 02 | Full Stack: React + FastAPI | 📋 Em planejamento |
-| Vol. 03 | Python Avançado | 📋 Em planejamento |
-| Vol. 04 | Banco de Dados: SQL e NoSQL | 📋 Em planejamento |
-| Vol. 05 | System Design e Arquitetura | 📋 Em planejamento |
-| Vol. 06 | Docker, AWS e DevOps | 📋 Em planejamento |
-| Vol. 07 | Kubernetes e Platform Engineering | 📋 Em planejamento |
-| Vol. 08 | Prompt Engineering | 📋 Em planejamento |
-| Vol. 09 | AI Engineer | 📋 Em planejamento |
-| Vol. 10 | AI Agents | 📋 Em planejamento |
-| Vol. 11 | AI Red Teaming | 📋 Em planejamento |
+| **Vol. 01** | [Fundamentos do Desenvolvedor Moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/) | 🟡 Em produção — 3 capítulos publicados |
+| Vol. 02 | Frontend Profissional com React e Next.js | 📋 Planejado |
+| Vol. 03 | Backend Profissional com FastAPI | 📋 Planejado |
+| Vol. 04 | Full Stack: Produto Real de Ponta a Ponta / CraftMarket | 📋 Planejado |
+| Vol. 05 | System Design, Software Architecture e Aplicações Robustas | 📋 Planejado |
+| Vol. 06 | Docker, AWS e DevOps Foundation | 📋 Planejado |
+| Vol. 07 | Kubernetes e Platform Engineering | 📋 Planejado |
+| Vol. 08 | Prompt Engineering e Fundamentos de LLMs | 📋 Planejado |
+| Vol. 09 | AI Engineer: Embeddings, Vector DB, RAG e Multimodal | 📋 Planejado |
+| Vol. 10 | AI Agents em Produção | 📋 Planejado |
+| Vol. 11 | AI Red Teaming, Governança e Tech Lead Capstone | 📋 Planejado |
 
 > **Conteúdo publicado progressivamente.** Novos capítulos são adicionados à medida que passam pela revisão editorial. Acompanhe o repositório para o status mais recente.
 

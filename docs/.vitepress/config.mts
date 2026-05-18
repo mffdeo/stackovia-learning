@@ -60,7 +60,5 @@ export default defineConfig({
       copyright: 'Stackovia Learning Series',
     },
 
-    editLink: undefined,
-    lastUpdated: false,
   },
 })
