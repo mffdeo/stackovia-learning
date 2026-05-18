@@ -1,0 +1,30 @@
+# Stackovia Learning Series
+
+> Hub da série — este repositório não contém capítulos, apenas o site central com links para todos os volumes.
+
+[![License: CC BY 4.0](https://img.shields.io/badge/Content-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+Série de 11 volumes para desenvolvedores que querem ir do zero ao sistema real — com portfólio profissional em cada etapa.
+
+## Volumes
+
+| Volume | Título | Status |
+|---|---|---|
+| **Vol. 01** | [Fundamentos do Dev Moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/) | 🟡 Em produção |
+| Vol. 02–11 | — | 📋 Em planejamento |
+
+## Stack
+
+Next.js · React · TypeScript · Tailwind · FastAPI · Django/DRF · PostgreSQL · Redis · Docker · GitHub Actions · AWS · Kubernetes · Terraform · Ollama · Hugging Face · LangChain · Qdrant · OpenTelemetry.
+
+## Licença
+
+- **Conteúdo** (texto, diagramas): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Código** (projetos, scripts, configs): [MIT](LICENSE-CODE).
+
+## Sobre
+
+O autor é **Marcos Oliveira** ([@mffdeo](https://github.com/mffdeo)).
+
+A série usa publicação progressiva: capítulos são adicionados à medida que passam pela revisão editorial. Para acompanhar o progresso, veja cada repositório de volume.
