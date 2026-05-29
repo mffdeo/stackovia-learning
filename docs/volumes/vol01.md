@@ -4,10 +4,10 @@ title: "Vol. 01 — Fundamentos do Dev Moderno"
 
 # Vol. 01 — Fundamentos do Dev Moderno
 
-**Status:** 🟢 Preview completo — 13 capítulos e projeto integrador publicados.
-**Site:** [mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/)
-**Repositório:** [github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno](https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno)
-**Projeto integrador:** [baixar e testar](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/projeto-integrador)
+- **Status:** 🟢 Preview completo — 13 capítulos e projeto integrador publicados.
+- **Site:** [mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/)
+- **Repositório:** [github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno](https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno)
+- **Projeto integrador:** [baixar e testar](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/projeto-integrador)
 
 ---
 
