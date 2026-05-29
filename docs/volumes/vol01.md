@@ -4,9 +4,10 @@ title: "Vol. 01 — Fundamentos do Dev Moderno"
 
 # Vol. 01 — Fundamentos do Dev Moderno
 
-**Status:** 🟡 Em produção — 13 capítulos publicados.
+**Status:** 🟢 Preview completo — 13 capítulos e projeto integrador publicados.
 **Site:** [mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/)
 **Repositório:** [github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno](https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno)
+**Projeto integrador:** [baixar e testar](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/projeto-integrador)
 
 ---
 
@@ -36,4 +37,9 @@ Sem React, sem FastAPI, sem banco de dados, sem Docker ainda. Fundamentos reais,
 
 ## Projeto integrador
 
-**IntraStack básico** — o portal interno improvisado da Stackovia, construído do zero ao longo dos 13 capítulos. Começa como um conjunto de arquivos avulsos e termina como um site estático publicado no GitHub Pages, com estrutura de projeto rastreável e portfólio documentado.
+**IntraStack Básico** — o portal interno improvisado da Stackovia, construído do zero ao longo dos 13 capítulos. Começa como um conjunto de arquivos avulsos e termina como um site estático publicado no GitHub Pages, com estrutura de projeto rastreável e portfólio documentado.
+
+O código de referência está disponível no repositório público:
+
+- [Página com instruções de download e teste](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/projeto-integrador)
+- [Pasta do projeto no GitHub](https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno/tree/main/projeto-integrador/stackovia-intrastack-basic)

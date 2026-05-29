@@ -11,7 +11,7 @@ Série de 11 volumes para desenvolvedores que querem ir do zero ao sistema real 
 
 | Volume | Título | Status |
 |---|---|---|
-| **Vol. 01** | [Fundamentos do Dev Moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/) | 🟡 Em produção |
+| **Vol. 01** | [Fundamentos do Dev Moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/) | 🟢 Preview completo |
 | Vol. 02–11 | — | 📋 Em planejamento |
 
 ## Stack
@@ -27,4 +27,4 @@ Next.js · React · TypeScript · Tailwind · FastAPI · Django/DRF · PostgreSQ
 
 O autor é **Marcos Oliveira** ([@mffdeo](https://github.com/mffdeo)).
 
-A série usa publicação progressiva: capítulos são adicionados à medida que passam pela revisão editorial. Para acompanhar o progresso, veja cada repositório de volume.
+A série usa publicação progressiva: volumes são adicionados à medida que passam pelo fluxo editorial. O Vol. 01 já tem 13 capítulos e projeto integrador publicados.

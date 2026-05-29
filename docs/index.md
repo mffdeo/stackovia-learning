@@ -28,7 +28,7 @@ features:
 
 | Volume | Título | Status |
 |---|---|---|
-| **Vol. 01** | [Fundamentos do Desenvolvedor Moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/) | 🟡 Em produção — 13 capítulos publicados |
+| **Vol. 01** | [Fundamentos do Desenvolvedor Moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/) | 🟢 Preview completo — 13 capítulos + projeto integrador |
 | Vol. 02 | Frontend Profissional com React e Next.js | 📋 Planejado |
 | Vol. 03 | Backend Profissional com FastAPI | 📋 Planejado |
 | Vol. 04 | Full Stack: Produto Real de Ponta a Ponta / CraftMarket | 📋 Planejado |
@@ -40,7 +40,7 @@ features:
 | Vol. 10 | AI Agents em Produção | 📋 Planejado |
 | Vol. 11 | AI Red Teaming, Governança e Tech Lead Capstone | 📋 Planejado |
 
-> **Conteúdo publicado progressivamente.** Novos capítulos são adicionados à medida que passam pela revisão editorial. Acompanhe o repositório para o status mais recente.
+> **Conteúdo publicado progressivamente.** O Volume 01 está com 13 capítulos e projeto integrador publicados. Os próximos volumes entram à medida que passam pelo mesmo fluxo editorial.
 
 ## Licença
 
