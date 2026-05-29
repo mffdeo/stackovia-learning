@@ -28,7 +28,7 @@ features:
 
 | Volume | Título | Status |
 |---|---|---|
-| **Vol. 01** | [Fundamentos do Desenvolvedor Moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/) | 🟡 Em produção — 7 capítulos publicados |
+| **Vol. 01** | [Fundamentos do Desenvolvedor Moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/) | 🟡 Em produção — 8 capítulos publicados |
 | Vol. 02 | Frontend Profissional com React e Next.js | 📋 Planejado |
 | Vol. 03 | Backend Profissional com FastAPI | 📋 Planejado |
 | Vol. 04 | Full Stack: Produto Real de Ponta a Ponta / CraftMarket | 📋 Planejado |

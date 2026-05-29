@@ -4,7 +4,7 @@ title: "Vol. 01 — Fundamentos do Dev Moderno"
 
 # Vol. 01 — Fundamentos do Dev Moderno
 
-**Status:** 🟡 Em produção — 7 capítulos publicados.
+**Status:** 🟡 Em produção — 8 capítulos publicados.
 **Site:** [mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/)
 **Repositório:** [github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno](https://github.com/mffdeo/stackovia-vol01-fundamentos-dev-moderno)
 
@@ -27,7 +27,7 @@ Sem React, sem FastAPI, sem banco de dados, sem Docker ainda. Fundamentos reais,
 | 05 | Do projeto local para o GitHub: README, branch e Pull Request | ✅ Preview |
 | 06 | HTML semântico para a primeira página | ✅ Preview |
 | 07 | CSS moderno e layout responsivo | ✅ Preview |
-| 08 | JavaScript no navegador | 🚧 Em produção |
+| 08 | JavaScript básico aplicado ao IntraStack | ✅ Preview |
 | 09 | Fetch, mock e erro de rede | 🚧 Em produção |
 | 10 | Formulário com validação e UX honesta | 🚧 Em produção |
 | 11 | Segurança básica no frontend | 🚧 Em produção |
