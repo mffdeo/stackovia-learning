@@ -11,8 +11,9 @@ Série de 11 volumes para desenvolvedores que querem ir do zero ao sistema real 
 
 | Volume | Título | Status |
 |---|---|---|
-| **Vol. 01** | [Fundamentos do Dev Moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/) | 🟢 Preview completo |
-| Vol. 02–11 | — | 📋 Em planejamento |
+| **Vol. 01** | [Fundamentos do Dev Moderno](https://mffdeo.github.io/stackovia-vol01-fundamentos-dev-moderno/) | 🟢 Preview completo — 13 caps + projeto integrador |
+| **Vol. 02** | [Frontend Profissional com React e Next.js](https://mffdeo.github.io/stackovia-vol02-frontend-nextjs/) | 🟡 Em produção — 1 capítulo Preview |
+| Vol. 03–11 | — | 📋 Em planejamento |
 
 ## Stack
 
@@ -27,4 +28,4 @@ Next.js · React · TypeScript · Tailwind · FastAPI · Django/DRF · PostgreSQ
 
 O autor é **Marcos Oliveira** ([@mffdeo](https://github.com/mffdeo)).
 
-A série usa publicação progressiva: volumes são adicionados à medida que passam pelo fluxo editorial. O Vol. 01 já tem 13 capítulos e projeto integrador publicados.
+A série usa publicação progressiva: volumes são adicionados à medida que passam pelo fluxo editorial. O Vol. 01 tem 13 capítulos e projeto integrador publicados. O Vol. 02 está em produção com o Cap. 01 disponível em Preview.
