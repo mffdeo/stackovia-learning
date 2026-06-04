@@ -33,7 +33,11 @@ export default defineConfig({
             link: '/volumes/vol01',
           },
           {
-            text: 'Vol. 02–11 — Em planejamento',
+            text: 'Vol. 02 — Frontend com React e Next.js',
+            link: '/volumes/vol02',
+          },
+          {
+            text: 'Vol. 03–11 — Em planejamento',
             link: '/volumes/vol01',
           },
         ],
