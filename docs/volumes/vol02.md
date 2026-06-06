@@ -4,7 +4,7 @@ title: "Vol. 02 — Frontend Profissional com React e Next.js"
 
 # Vol. 02 — Frontend Profissional com React e Next.js
 
-- **Status:** 🟡 Em produção — 1 capítulo Preview.
+- **Status:** 🟡 Em produção — 3 capítulos Preview.
 - **Site:** [mffdeo.github.io/stackovia-vol02-frontend-nextjs](https://mffdeo.github.io/stackovia-vol02-frontend-nextjs/)
 - **Repositório:** [github.com/mffdeo/stackovia-vol02-frontend-nextjs](https://github.com/mffdeo/stackovia-vol02-frontend-nextjs)
 
@@ -21,7 +21,9 @@ O Volume 02 pega o IntraStack básico (site estático HTML/CSS/JS do Volume 01) 
 | # | Título | Status |
 |---|---|---|
 | 01 | Da intranet estática ao app: onboarding do V02 | ✅ Preview |
-| 02–14 | (em produção) | 🚧 Em produção |
+| 02 | React: componentes, JSX e props | ✅ Preview |
+| 03 | Estado e hooks: o IntraStack se torna interativo | ✅ Preview |
+| 04–14 | (em produção) | 🚧 Em produção |
 
 ## Projeto integrador
 
